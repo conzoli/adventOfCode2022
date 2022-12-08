@@ -1,1 +1,20 @@
-{"type": "module"}
+{
+  "type": "module",
+  "name": "adventofcode",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conzoli/adventOfCode2022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conzoli/adventOfCode2022/issues"
+  },
+  "homepage": "https://github.com/conzoli/adventOfCode2022#readme"
+}
